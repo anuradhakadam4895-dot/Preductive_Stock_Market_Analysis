@@ -17,7 +17,8 @@ To train the predictive models, three core technical analysis indicators were en
 ## 📊 Evaluation & Visualizations
 Below is the sequential tracking performance graph showing predicted vs. actual directional movements over a 40-day testing window:
 
-![Prediction Output Chart](major_stock_prediction.png)
+![Prediction Output Chart](Preductive_Stock_Market_Analysis
+/major_stocks_prediction.png)
 
 ## ⚠️ Key Structural Limitations
 * **Exogenous Vulnerabilities:** The framework relies purely on historical price trends and does not account for real-time fundamental impacts like macroeconomic news catalysts or earnings disclosures.
